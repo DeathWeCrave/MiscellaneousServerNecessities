@@ -1,0 +1,32 @@
+name:  Miscellaneous Server Necessities 
+main: com.dwc.Main
+version: '1.0'
+description: Wireless redstone connections
+commands:
+  website:
+    usage: /<command>
+    description: shows the server website
+  apply:
+    usage: /<command>
+    description: show the apply website direct
+  rules:
+    usage: /<command>
+    description: a rules command to replace the one in Essentials
+  clearchat:
+    usage: /<command>
+    description: clears the global chat
+  wild:
+    usage: /<command>
+    description: teleports you randomly
+  bug:
+    usage: /<command>
+    descriptions: report a bug
+  seebug:
+    usage: /<command>
+    description: look at a bug
+  delbug:
+    usage: /<command>
+    description: deletes a bug
+  dwcreload:
+    usage: /<command>
+    description: reloads the configuration file (config.yml)
